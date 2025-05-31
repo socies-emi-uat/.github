@@ -1,0 +1,101 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5xd2Zya3lxNmgxZ2dvZHE5MWR4aDVobWI3bW1jZnZxNXVhYWc1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Sociedad Científica de Informática" width="300"/>
+</p>
+
+<h1 align="center">💻🌟 Sociedad Científica de Informática 🌟💻</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Comunidad-Activa-brightgreen?style=flat-square&logo=github" alt="Comunidad Activa"/>
+  <img src="https://img.shields.io/badge/Áreas-IA%2C%20Ciberseguridad%2C%20Big%20Data-blue?style=flat-square&logo=java" alt="Áreas de Investigación"/>
+  <img src="https://img.shields.io/badge/Join%20Us-Now-blueviolet?style=flat-square&logo=github" alt="Únete a nosotros"/>
+</p>
+
+---
+
+## 🚀 Quiénes somos
+
+La **Sociedad Científica de Informática** es un espacio donde convergen estudiantes, profesionales y entusiastas apasionados por la tecnología y la innovación. Nos dedicamos a:
+
+✅ Desarrollar proyectos colaborativos en IA, Ciberseguridad, Big Data, Desarrollo Web y más.  
+✅ Realizar charlas, talleres y seminarios para compartir conocimiento.  
+✅ Participar en competencias nacionales e internacionales para crecer juntos.  
+
+---
+
+## 🛠️ Nuestras Tecnologías y Herramientas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+
+---
+
+## 🌟 Repositorios Destacados
+
+| Proyecto               | Descripción                                                           |
+|------------------------|-----------------------------------------------------------------------|
+| 🚀 `proyecto-ia`       | Implementación de modelos de Machine Learning con scikit-learn y PyTorch. |
+| 🔒 `ciberseguridad-lab`| Laboratorio para pruebas de pentesting y seguridad ofensiva.          |
+| 📊 `data-viz`          | Herramientas para visualización interactiva de datos.                 |
+
+---
+
+## 🎯 Nuestra Misión
+
+> *“Impulsar la innovación, el conocimiento y la colaboración en el ámbito de la informática para formar líderes capaces de transformar el mundo digital.”*
+
+---
+
+## 🌈 ¿Quieres unirte?
+
+¡Estamos siempre abiertos a nuevas mentes creativas! 💡  
+Contáctanos o haz un **fork** de nuestros proyectos para empezar a colaborar.
+
+<p align="center">
+  <a href="https://github.com/tu-organizacion">
+    <img src="https://img.shields.io/badge/Visítanos%20en-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:contacto@sociedadcientificainformatica.org">
+    <img src="https://img.shields.io/badge/Contacta%20con%20nosotros-Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 📸 Galería de Eventos
+
+<p align="center">
+  <img src="https://source.unsplash.com/600x200/?technology,team" alt="Evento 1" />
+  <img src="https://source.unsplash.com/600x200/?programming,conference" alt="Evento 2" />
+</p>
+
+---
+
+## 🏆 Reconocimientos y Participaciones
+
+- 🥇 Finalistas en la Competencia Nacional de Proyectos de Software.  
+- 🌍 Participación en hackatones internacionales.  
+- 🏅 Reconocimiento como comunidad destacada en 2025.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7FFF00&lines=¡Únete+a+la+Sociedad+Hoy!;Sé+parte+del+cambio+digital;Aprende+y+crece+con+nosotros!" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Join us!"/>
+</p>
+
+---
+
+**¡Gracias por visitar nuestra página y ser parte de esta aventura digital!** 🚀✨
+
+---
+
