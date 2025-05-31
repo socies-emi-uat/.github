@@ -89,10 +89,6 @@ Contáctanos o haz un **fork** de nuestros proyectos para empezar a colaborar.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Join us!"/>
-</p>
-
 ---
 
 **¡Gracias por visitar nuestra página y ser parte de esta aventura digital!** 🚀✨
