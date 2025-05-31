@@ -66,15 +66,6 @@ Contáctanos o haz un **fork** de nuestros proyectos para empezar a colaborar.
 
 ---
 
-## 📸 Galería de Eventos
-
-<p align="center">
-  <img src="https://source.unsplash.com/600x200/?technology,team" alt="Evento 1" />
-  <img src="https://source.unsplash.com/600x200/?programming,conference" alt="Evento 2" />
-</p>
-
----
-
 ## 🏆 Reconocimientos y Participaciones
 
 - 🥇 Finalistas en la Competencia Nacional de Proyectos de Software.  
