@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5xd2Zya3lxNmgxZ2dvZHE5MWR4aDVobWI3bW1jZnZxNXVhYWc1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Sociedad Científica de Informática" width="300"/>
+
+  <img src="https://www.emi.edu.bo/images/inicio/main.png" alt="Sociedad Científica de Informática" width="300" />
 </p>
 
 <h1 align="center">💻🌟 Sociedad Científica de Informática 🌟💻</h1>
