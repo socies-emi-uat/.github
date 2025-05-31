@@ -88,6 +88,9 @@ Contáctanos o haz un **fork** de nuestros proyectos para empezar a colaborar.
 </p>
 
 ---
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
 ---
 
