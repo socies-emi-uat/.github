@@ -91,11 +91,6 @@ Contáctanos o haz un **fork** de nuestros proyectos para empezar a colaborar.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=socies-emi-uat&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
-</p>
-
-
 **¡Gracias por visitar nuestra página y ser parte de esta aventura digital!** 🚀✨
 
 ---
