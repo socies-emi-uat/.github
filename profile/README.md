@@ -56,7 +56,7 @@ La **Sociedad Científica de Informática** es un espacio donde convergen estudi
 Contáctanos o haz un **fork** de nuestros proyectos para empezar a colaborar.
 
 <p align="center">
-  <a href="https://github.com/tu-organizacion">
+  <a href="https://github.com/socies-emi-uat">
     <img src="https://img.shields.io/badge/Visítanos%20en-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="mailto:contacto@sociedadcientificainformatica.org">
